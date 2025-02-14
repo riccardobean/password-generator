@@ -1,0 +1,8 @@
+DO NOT CHANGE OR DELETE THIS FILE
+#191970
+#ffffff
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890
+!@#$%^&*()-+
+True
